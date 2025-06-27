@@ -17,7 +17,7 @@ This is a simple stock portfolio tracker application built with Python and Tkint
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]  # If you have a repository. Omit if you just have the python file.
+    git clone https://github.com/AryaAjayan/CodeAlpha_stock-portfolio-tracker.git  
     cd stock_portfolio_tracker # Change directory if needed
     ```
 
